@@ -1,4 +1,4 @@
-def binarySearch(Values, target ) :
+def binary_search(Values, target ) :
 # Start with the entire sequence of elements.
   low = 0
   high = len(Values) - 1
